@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Ayush Shirkot
 
-I am a researcher and developer passionate about building at the intersection of complex technical systems and human-centric design. I enjoy exploring how software can augment decision-making processes and creating high-quality, engaging digital media.
+I am a MD Graduate and self taught developer passionate about building at the intersection of complex technical systems and human-centric design. I enjoy exploring how software can augment decision-making processes and creating high-quality, engaging digital media.
 
 ### 🔭 Currently working on...
 * **Developing** full-stack web and mobile applications, focusing on clean architecture and user experience.
