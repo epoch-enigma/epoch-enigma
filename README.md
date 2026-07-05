@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Ayush Shirkot
+## Hi there! 👋 
 
 I am a MD Graduate and self taught developer passionate about building at the intersection of complex technical systems and human-centric design. I enjoy exploring how software can augment decision-making processes and creating high-quality, engaging digital media.
 
